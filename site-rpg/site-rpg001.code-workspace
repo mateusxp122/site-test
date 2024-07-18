@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OneDrive/Área de Trabalho/site-rpg/public"
+		},
+		{
+			"path": "../OneDrive/Área de Trabalho/site-rpg/server"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "public"
+	}
+}
